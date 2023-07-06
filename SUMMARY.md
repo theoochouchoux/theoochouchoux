@@ -1,6 +1,6 @@
 # Table of contents
 
-## 🏡 Accueil <a href="#docs.mumble.com" id="docs.mumble.com"></a>
+## 🏡 Accueil
 
 * [🎧 mumble](README.md)
 
