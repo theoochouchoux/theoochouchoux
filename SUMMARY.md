@@ -14,6 +14,7 @@
     * [🗡 Tenza Yamada Asaemon](hells-paradise-uhc/hells-paradise-uhc/condamne-a-mort/tenza-yamada-asaemon.md)
     * [🗡 Gantetsusai Tamiya](hells-paradise-uhc/hells-paradise-uhc/condamne-a-mort/gantetsusai-tamiya.md)
     * [🗡  Fuchi Yamada Asaemon](hells-paradise-uhc/hells-paradise-uhc/condamne-a-mort/fuchi-yamada-asaemon.md)
+    * [🗡  Eizen Yamada Asaemon](hells-paradise-uhc/hells-paradise-uhc/condamne-a-mort/eizen-yamada-asaemon.md)
     * [🗡 Akaginu](hells-paradise-uhc/hells-paradise-uhc/condamne-a-mort/akaginu.md)
     * [🗡 Shion Yamada Asaemon](hells-paradise-uhc/hells-paradise-uhc/condamne-a-mort/shion-yamada-asaemon.md)
     * [🗡  Makiya Moro](hells-paradise-uhc/hells-paradise-uhc/condamne-a-mort/makiya-moro.md)
