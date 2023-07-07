@@ -1,4 +1,4 @@
-# 🗡 Houko
+# 🏝 Hôko
 
 Il possède l'effet **résistance I** ainsi que l'identité de <mark style="color:green;">**Mei**</mark>.
 
