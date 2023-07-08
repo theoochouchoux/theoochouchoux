@@ -1,2 +1,0 @@
-# 🗡  Touma Yamada Asaemon
-

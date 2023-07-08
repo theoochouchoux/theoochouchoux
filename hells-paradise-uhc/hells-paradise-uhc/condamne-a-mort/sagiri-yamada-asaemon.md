@@ -16,4 +16,4 @@ troisième utilisation : elle écope de l'effet  **Slowness** pendant 10 minutes
 A partir de la quatrième utilisation elle perd **1 cœur** de façon **permanent** a chaque utilisation.
 {% endhint %}
 
-<figure><img src="https://media.tenor.com/jgDmCTAye2AAAAAC/anime-hells-paradise.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/anime-hells-paradise.gif" alt=""><figcaption></figcaption></figure>
