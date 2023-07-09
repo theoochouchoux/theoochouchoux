@@ -12,4 +12,4 @@ Elle peut aussi apprendre la maitrise du **Tao** en ciblant un joueur à 100% du
 Elle dispose d'un **pourcentage d'apprentissage**, visible au-dessus de chaque joueur. Toutes les 4 secondes, ce pourcentage augmente de 1% pour tous les joueurs situés à 15 blocs d'elle.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/tumblr_c797ee1addc7115558ef2dbf45f18237_de5705ee_540.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/tumblr_c797ee1addc7115558ef2dbf45f18237_de5705ee_540.gif" alt=""><figcaption></figcaption></figure>

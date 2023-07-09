@@ -10,5 +10,5 @@ Avec la command **/hp inventory \[Joueur]**, cela lui permet de voir l'inventair
 A la mort de <mark style="color:green;">**Yuzuriha**</mark> il obtient l'effet **faiblesse** permanent.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/tumblr_8d928d96b3693a08e365765687480e23_75440e39_400.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/tumblr_8d928d96b3693a08e365765687480e23_75440e39_400.webp" alt=""><figcaption></figcaption></figure>
 
