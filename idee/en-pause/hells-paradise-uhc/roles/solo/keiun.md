@@ -3,7 +3,7 @@
 Il possède les effets **Force I** et **Résistance I.**
 
 {% hint style="info" %}
-A l'annonce des rôles il obtient un **épée** en **diamant** **Sharpness 3** nommé **Armement** qui quand il tapera le joueur visé aura **effet aléatoire:**
+A l'annonce des rôles il obtient un **épée** en **diamant** **Sharpness 3** nommé "**Armement"** qui quand il tapera le joueur visé aura **effet aléatoire:**
 
 15% de chance d'octroyer l’effet de **Blindness I**, **Nausée I**, **Weakness I** durant **10 secondes.**
 

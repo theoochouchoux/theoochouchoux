@@ -3,7 +3,7 @@
 Elle possède l'effet **speed I** et connait l'identité de <mark style="color:green;">**Gabimaru**</mark> dès l'annonce des rôles.
 
 {% hint style="warning" %}
-Dès l'annonce des rôles elle obtient un item nommé **respiration** qui lui donné l'effet **force I** ainsi que de voir la vie des joueurs pendant 2 minute. (1x/5mins)
+Dès l'annonce des rôles elle obtient un item nommé "**respiration"** qui lui donné l'effet **force I** ainsi que de voir la vie des joueurs pendant 2 minute. (1x/5mins)
 
 A chaque utilisation le malus sera de plus en plus important :&#x20;
 
