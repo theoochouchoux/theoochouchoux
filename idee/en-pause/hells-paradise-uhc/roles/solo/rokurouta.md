@@ -10,4 +10,4 @@ Il reçoit un message toutes les **5 minutes** s'il se trouve dans un rayon de *
 Ayant une faim infini il possède l'effet **Hunger** de nuit.
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/tumblr_29bdb33be6c8121f3b48338c3d656ae5_481407f2_640.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/tumblr_29bdb33be6c8121f3b48338c3d656ae5_481407f2_640.gif" alt=""><figcaption></figcaption></figure>

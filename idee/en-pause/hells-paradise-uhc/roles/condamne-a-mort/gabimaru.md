@@ -8,4 +8,4 @@ A l'annonce des rôles il obtient un item nommé **Flamme du moine** qui a son a
 Il possède aussi un **pourcentage de mémoire** qui est à **100%** a l'annonce des rôles qui diminuera à chaque utilisation des "**Flammes du moine"** jusqu'a **0%** ou il deviendra solo obtenant l'effet force I de façon permanent.
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/gabimaru-anime.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/gabimaru-anime.gif" alt=""><figcaption></figcaption></figure>

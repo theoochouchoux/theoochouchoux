@@ -8,4 +8,4 @@ Ayant des capacité du **Tan** il possède un **régénération** d'un **demi-c�
 Vivant sur l'île il est détectée comme faisant partie des <mark style="color:red;">**Habitant de l'île**</mark> par les rôles à information. Son village s'étant transformé en arbre comme expérience par les éternels si <mark style="color:red;">**Mu Dan**</mark> reste dans rayon de 15 blocs en atteignant **2000 points** <mark style="color:green;">**Hôko**</mark> rejoindra les <mark style="color:red;">**Habitant de l'île**</mark>.
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/hoko-cover.webp" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/hoko-cover.webp" alt="" width="563"><figcaption></figcaption></figure>
