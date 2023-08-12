@@ -1,0 +1,2 @@
+# 🏛 Shura du Capricorne
+
