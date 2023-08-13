@@ -83,6 +83,7 @@
         * [👻 Rune du Balron](idee/en-cours/saint-seiya-uhc/roles/spectre/rune-du-balron.md)
         * [👻 Raimi du Ver](idee/en-cours/saint-seiya-uhc/roles/spectre/raimi-du-ver.md)
         * [👻 Zélos de la Grenouille](idee/en-cours/saint-seiya-uhc/roles/spectre/zelos-de-la-grenouille.md)
+        * [👻 Shion du Bélier](idee/en-cours/saint-seiya-uhc/roles/spectre/shion-du-belier.md)
       * [🌊 Généraux Marinas](idee/en-cours/saint-seiya-uhc/roles/generaux-marinas/README.md)
         * [🌊 Poséidon](idee/en-cours/saint-seiya-uhc/roles/generaux-marinas/poseidon.md)
         * [🌊  Canon du Dragon des Mers](idee/en-cours/saint-seiya-uhc/roles/generaux-marinas/canon-du-dragon-des-mers.md)
